@@ -209,7 +209,6 @@ algorithms, knowledgebase and AI technology.
 * [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
 * [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
 * [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
-* [CertStream API](https://certstream.dev/free-certstream-api.html) - Free real-time WebSocket stream of newly issued SSL/TLS certificates and domain names from Certificate Transparency logs, no API key required
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 * [Cloudflare Radar](https://radar.cloudflare.com) - Internet traffic patterns, attacks, and technology trends.
 * [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
@@ -986,6 +985,7 @@ algorithms, knowledgebase and AI technology.
 * [Verisign](https://dnssec-debugger.verisignlabs.com)
 * [ViewDNS.info](https://viewdns.info)
 * [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
+* [VPNDetection](https://vpndetection.io) - Checks whether an IP is a VPN, proxy, Tor exit or hosting address. Free, no signup. Also a Chrome extension that looks up an IP you select on any page.
 * [w3snoop](https://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * [WebMeUp](https://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
@@ -1081,6 +1081,7 @@ algorithms, knowledgebase and AI technology.
 * [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 * [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 * [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
+* [WhatsInMyFile](https://whatsinmyfile.com/) - In-browser metadata and hidden content checker for photos, PDFs and Office files; nothing is uploaded.
 
 ## [↑](#-table-of-contents) Video Search and Other Video Tools
 
@@ -1597,6 +1598,7 @@ algorithms, knowledgebase and AI technology.
 * [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [BeVigil-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+* [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) - Command line tool to read Bitcoin on-chain data: decode OP_RETURN messages and inscriptions, inspect addresses and transactions, and verify a transaction against its block's Merkle proof.
 * [Cyberbro](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 * [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
